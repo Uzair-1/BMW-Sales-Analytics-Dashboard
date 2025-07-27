@@ -19,3 +19,8 @@ The dashboard delivers detailed insights into:
 - **DAX (Data Analysis Expressions)**
 - **Excel (Data Preprocessing)**
 - **Image Assets** for visual enhancement
+
+## Publish Link Here 
+OPEN IN MS>EDGE
+
+https://app.powerbi.com/groups/me/reports/cfc146c0-8e7d-4f03-a443-f3dc185a5e66/79ebf1419545e3710b0c?experience=power-bi
